@@ -4,3 +4,8 @@ body{
     border: double;
     line-height: 1.5;
 }
+
+p{
+    font-size: 18px;
+    font-family: Comic Sans Ms;
+}
